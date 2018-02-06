@@ -22,7 +22,6 @@ of the function to yield the value of procedure.
 We can use the compound procedures to define the other procedures. For example - defining a procedure for `sum of the cube` of two numbers.
 
 ```js
-// Use compound procedures that was defined earlier to create other procedures
 function sum_of_cube(a, b) {
   return cube(a) + cube(b);
 }

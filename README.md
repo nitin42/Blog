@@ -1,2 +1,5 @@
-# Blog
-📗 My writings
+# 📗 Blog
+
+> Do you even blog ??
+
+In this repository, you will find the articles that I've written related to various topics. I hope you like it!
